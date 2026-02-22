@@ -1,0 +1,11 @@
+Course:EEE227
+Date:2026_02_21
+StartTime:08:00AM
+Duration:120
+---------------------------------
+EE2001|Abdul-Hack Zeidin|Present
+EE2002|Mariam Ibrahim|Late
+EE2003|Kwame Mensah|Present
+EE2004|Fatima Ali|Absent
+---------------------------------
+Summary|Present:2|Absent:1|Late:1
