@@ -1,19 +1,20 @@
 # Digital Attendance System for Hour-Based Lectures
 
 ## Course
-EEE227 – Digital Attendance System (30%)
+Programme: HND Electrical Engineering (Level 200)
+Course Code: EEE227
 
 ## Description
 A console-based C++ application that manages student registration, session creation, attendance marking, and attendance reporting using text file storage.
 
 ## Features
-✔ Register students  
-✔ View all students  
-✔ Search for students  
-✔ Create session (Date/Time/Duration)  
-✔ Mark attendance (Present/Absent/Late)  
-✔ View session attendance report  
-✔ Persistent storage using files  
+ Register students  
+ View all students  
+ Search for students  
+ Create session (Date/Time/Duration)  
+ Mark attendance (Present/Absent/Late)  
+ View session attendance report  
+ Persistent storage using files  
 
 ## How It Works
 - Registered student data is stored in **students.txt**
