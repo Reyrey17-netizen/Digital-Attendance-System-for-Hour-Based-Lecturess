@@ -238,17 +238,7 @@ int main() {
 
     } while (choice != 7);
 
-
-void saveToExcel(string filename, string name, string index, string status) {
-    // Open file in append mode
-    ofstream outFile;
-    outFile.open(filename + ".csv", ios::app); 
-
-    // Write data separated by commas (CSV format)
-    outFile << name << "," << index << "," << status << "\n";
-
-    outFile.close();
-}
     return 0;
 }
+
 
